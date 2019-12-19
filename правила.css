@@ -1,0 +1,24 @@
+<style>
+body {background-size: cover
+}
+div {margin-left:300px;
+ margin-right:300px;
+background-color:khaki;
+border: solid 10px blue;
+padding-left:10px
+}
+ p { text-indent: 25px;
+align: left;
+font-style : times in roman;
+font-size : 14pt; 
+color: grey }
+h1 { 
+font-style : arial;
+color: black}
+h2 {
+font-style : arial;
+color: red}
+li {font-style : times in roman;
+font-size : 14pt; 
+color: black }
+</style>
